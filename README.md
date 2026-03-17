@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Divyansh 🚀
 
-<!--
-**divyanshlight/divyanshlight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Full-Stack Developer** and **UI/UX Enthusiast** with over 3 years of experience. I specialize in building end-to-end digital solutions—from initial Figma wireframes to deployed Next.js applications—while maintaining a strong focus on high-level customer engagement and product strategy.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Expertise
+
+* **Frontend:** Next.js, React.js, Tailwind CSS, UI/UX Design (Figma)
+* **Backend:** Node.js, **Python**, **GoLang**, PostgreSQL, RESTful APIs
+* **Infrastructure:** AWS Amplify, Vercel, Sanity (Headless CMS)
+* **Core Skills:** Software Architecture, **Customer Engagement**, Product Discovery
+
+---
+
+### 💡 Founding & Professional Work
+
+I thrive in "zero-to-one" environments, building scalable products from the first line of code:
+
+* **Maeris.io:** Founding Engineer – Architected and built the core foundations of the platform.
+* **Kafe Kufe:** Founder & Lead Developer – A comprehensive SaaS platform designed for streamlined cafe management and operations.
+* **The Beyond Horizon:** Founder – A digital venture focused on delivering high-end web/app development and UI/UX design services.
+* **Nippon Data Systems:** Software Developer – Engineering large-scale digital legal tools and enterprise systems.
+
+---
+
+### 🎨 Creative & Gaming Life
+
+When I'm not in a code editor, you'll find me:
+
+* **Gaming:** Competitive sessions in **Valorant**, **Apex Legends**, **CS**, and **GTA**.
+* **Art & Design:** Sketching and designing creative stuffs—bringing ideas to life on paper and screen.
+* **On the Road:** Clocking miles in my **Tata Tiago** (22km/L mileage champion!).
+* **Magic:** Occasional **Harry Potter** marathons. ⚡
+
+---
+
+### 📬 Let's Connect!
+
+I’m always up for a chat about **Next.js**, **SaaS architecture**, or **UI/UX** optimizations.
+
+* **GitHub:** [divyanshlight](https://github.com/divyanshlight/)
+* **LinkedIn:** [Divyansh Sharma](https://www.linkedin.com/in/divyansh-sharma-72b5b21b2)
+
+> "The only way to do great work is to love what you do."
