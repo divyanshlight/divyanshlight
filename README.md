@@ -30,8 +30,6 @@ When I'm not in a code editor, you'll find me:
 
 * **Gaming:** Competitive sessions in **Valorant**, **Apex Legends**, **CS**, and **GTA**.
 * **Art & Design:** Sketching and designing creative stuffs—bringing ideas to life on paper and screen. Check out my work at [The Art Corner](https://www.instagram.com/the__artcorner__/).
-* **On the Road:** Clocking miles in my **Tata Tiago** (22km/L mileage champion!).
-* **Magic:** Occasional **Harry Potter** marathons. ⚡
 
 ---
 
