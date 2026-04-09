@@ -13,17 +13,6 @@ I’m a **Full-Stack Developer** and **UI/UX Enthusiast** with over 3 years of e
 
 ---
 
-### 💡 Founding & Professional Work
-
-I thrive in "zero-to-one" environments, building scalable products from the first line of code:
-
-* **Nippon Data Systems:** Software Developer – Engineering large-scale digital legal tools and enterprise systems.
-* **Kafe Kufe:** Founder & Lead Developer – A comprehensive SaaS platform designed for streamlined cafe management and operations.
-* **The Beyond Horizon:** Founder & Lead Developer – A digital venture focused on delivering high-end web/app development and UI/UX design services.
-* **Maeris.io:** Founding Engineer – Architected and built the core foundations of the platform.
-
----
-
 ### 🎨 Creative & Gaming Life
 
 When I'm not in a code editor, you'll find me:
